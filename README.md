@@ -1,16 +1,21 @@
+# Session Proposal
 ### **Session 1 -**(With KeyNote) -Enterprise processes for agile, DevOps and customer-centric development
 
 -  Action-based recommendation in Pull-request development
-*Muhammad Ilyas Azeem, Sebastiano Panichella, Andrea Di Sorbo, Alexander Serebrenik, Qing Wang* 
+
+  *Muhammad Ilyas Azeem, Sebastiano Panichella, Andrea Di Sorbo, Alexander Serebrenik, Qing Wang* 
 
 - Experimentation for Business-to-Business Mission-Critical Systems: A Case Study
-*David Issa Mattos, Anas Dakkak, Jan Bosch, Helena Holmström Olsson* 
+
+  *David Issa Mattos, Anas Dakkak, Jan Bosch, Helena Holmström Olsson* 
 
 - On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study
-*Mojtaba Shahin, M. Ali Babar* 
+
+  *Mojtaba Shahin, M. Ali Babar* 
 
 - Generating Use Case Scenarios from User Stories
-*Fabian Gilson, Matthias Galster, François Georis*
+
+  *Fabian Gilson, Matthias Galster, François Georis*
 
 
 
