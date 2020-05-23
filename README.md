@@ -1,5 +1,5 @@
 # Session Proposal
-### **Session 1 -**(With KeyNote) -Enterprise processes for agile, DevOps and customer-centric development[【vedios】](https://www.dropbox.com/sh/c8tu3g23rjpn077/AABX1wDH9ZR9G7MUEa8HrHQwa?dl=0)
+### **Session 1 -**(With KeyNote) -Enterprise processes for agile, DevOps and customer-centric development[【videos】](https://www.dropbox.com/sh/c8tu3g23rjpn077/AABX1wDH9ZR9G7MUEa8HrHQwa?dl=0)
 
 -  Action-based recommendation in Pull-request development 
 
